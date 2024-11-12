@@ -1,0 +1,6 @@
+[submodule "recipe-book-server"]
+	path = recipe-book-server
+	url = git@github.com:KirillBazilsky/Recipe-book-server.git
+[submodule "recipe-book-client"]
+	path = recipe-book-client
+	url = git@github.com:KirillBazilsky/Recipe-book-client.git
